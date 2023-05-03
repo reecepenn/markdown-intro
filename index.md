@@ -1,4 +1,10 @@
 # This is in h1 ! 
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 ## This is in h2
 ### This is in h3
 #### This is in h4
